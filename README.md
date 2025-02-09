@@ -9,7 +9,7 @@
 
 ## Overview
 
-`UIManager` is a powerful JavaScript class designed to streamline the creation of interactive and customizable user interfaces for web applications. It provides a variety of UI components with custom styling, event handling, and modular design, making it easier to manage state, interactions, and visual effects.
+`UIManager` is a powerful JavaScript class designed to streamline the creation of interactive and customizable user interfaces for web-based game modding. It provides a variety of UI components with custom styling, event handling, and modular design, making it easier to manage state, interactions, and visual effects.
 
 ## Features
 
@@ -24,18 +24,6 @@ Include the script in your HTML:
 
 ```html
 <script src="path/to/UIManager.js"></script>
-```
-
-Or install via npm:
-
-```bash
-npm install ui-manager --save
-```
-
-Then, import it in your JavaScript file:
-
-```javascript
-import UIManager from 'ui-manager';
 ```
 
 ## Usage
